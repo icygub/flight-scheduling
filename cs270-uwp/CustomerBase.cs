@@ -21,12 +21,15 @@ namespace cs270_uwp
                 if (c.Name.Equals(customer))
                 {
                     return true;
+                 
                 }
             }
             return false;
         }
 
-        public void deleteCustomer(String customer) { }
+        public void deleteCustomer(String customer) {
+            
+        }
 
         public void editCustomer(String customer, String editedCustomer) { }
     }

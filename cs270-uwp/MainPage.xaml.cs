@@ -27,7 +27,7 @@ namespace cs270_uwp
             this.InitializeComponent();
         }
 
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        private void TextBoxAdd_TextChanged(object sender, TextChangedEventArgs e)
         {
 
         }
