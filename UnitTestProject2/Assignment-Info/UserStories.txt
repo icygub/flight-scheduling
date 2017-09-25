@@ -1,0 +1,11 @@
+﻿User Story#1
+Add a customer.
+
+User Story#2
+Delete a customer.
+
+User Story#3
+Edit a customer.
+
+User Story#4
+Find a customer.

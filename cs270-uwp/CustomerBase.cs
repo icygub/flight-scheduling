@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace cs270_uwp
 {
-    class CustomerBase
+    public class CustomerBase
     {
         List<Customer> customers = new List<Customer>();
         public void addCustomer(String customer)

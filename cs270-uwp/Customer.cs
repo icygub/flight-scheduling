@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace cs270_uwp
 {
-    class Customer
+    public class Customer
     {
         private string name;
 

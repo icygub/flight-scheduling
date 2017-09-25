@@ -13,15 +13,11 @@ namespace cs270_uwp
 
         string s1 = "asdf";
         String e1 = "asdf";
-        
-        public void Tester()
-        {
-            if (s.Equals(e))
-            {
+
+        public void Tester() {
+            if (s.Equals(e)) {
                 System.Diagnostics.Debug.WriteLine("equal");
             }
-                
-           
         }
     }
 }
